@@ -20,6 +20,7 @@
     "@strapi/strapi": "5.16.1",
     "better-sqlite3": "11.3.0",
     "pg": "^8.16.3",
+    "pg-connection-string": "^2.9.1",
     "react": "^18.0.0",
     "react-dom": "^18.0.0",
     "react-router-dom": "^6.0.0",
@@ -32,9 +33,9 @@
     "typescript": "^5"
   },
   "engines": {
-  "node": "20.x",
-  "npm": "10.x"
-},
+    "node": "20.x",
+    "npm": "10.x"
+  },
   "strapi": {
     "uuid": "26a6a330-7611-4b97-86ad-e437925c9680",
     "installId": "75260a79c06a01b80ba01b8572d924df0556c72d41fe2c512c9302da2b4f2c99"
